@@ -1,0 +1,127 @@
+ICS3C/U  Daily Log					Name: Kieran
+
+A - achievements	C - concerns		E - expectations	
+Name Kieran
+
+
+Week of mon: May 27th
+to Sun: Jun 2
+
+Mon May 27th
+75 min
+A Figuring out a basic idea for my game 
+C Is it a good idea? How hard will animation be? Is it easy to get the screen to scroll to the side? How will I get game assets(images)
+E Figure out more about the game and hopefully finish planning 
+
+Tues May 28th
+75 min
+A Most of my planning is finished 
+C There seems to be a lot that I do not know how to do at the moment, such as loading the game from a saved file
+E Tomorrow I wish to finish my planning 
+
+Wed May 29th
+75 min 
+A Almost finished the planning
+C There seems to be a lot of things to design and many decisions to make
+E Finish my drawings by friday
+
+Thur May 30th
+hrs 0
+A Tennis tournament
+C Tennis tournament 
+E Tennis tournament 
+
+Fri May 31st
+75 min
+A Making the screen move to the side 
+C jumping
+E To have him jump
+
+
+A - achievements	C - concerns		E - expectations	
+Name Kieran
+
+
+Week of Mon: June 3rd
+to Sun: June 9th
+
+Mon June 3rd
+75 min
+A He jumps, and I have some assets as place holders 
+C It will be difficult to actually get the assets I need 
+E Get my assets 
+
+Tues June 4th
+hrs 5.5
+A I finished my scrolling background, it looks amazing. 
+C Character design 
+E Fix the jumping bug and start character design
+
+Wed June 5th
+75min 
+A I fixed it so when he jumps the game isn’t paused, as well as optimized the logic. I got started on the character design as well
+C Character design 
+E Get a character made 
+
+Thur June 6th
+75 min
+A Character made 
+C It looks bad
+E Adding functions (main menu, pause, etc.)
+
+Fri June 7th
+75 min
+A Added functions
+C Adding enemies
+E I will have enemies added using the array generation method
+
+
+A - achievements	C - concerns		E - expectations	
+Name Kieran
+
+
+Week of Mon: June 10th
+to Sun: June 17th
+
+Mon June 10th
+Hrs 5
+A Looked at making the enemies generate using the map array thing we looked at in class but to no avail
+C I have no idea how to have them spawn now
+E I will figure how to have them spawn tomorrow
+
+Tues June 11th
+hrs 6
+A Changed player and enemy into classes, animated them, made enemies procedurally generate 
+C collision
+E collision
+
+Wed June 12th 
+Hrs 6
+A Tried to figure out collision 
+C Collision makes no sense and my hitboxes I made earlier aren’t very useful 
+E Figure how to effectively collide 
+
+Thur June 13th
+hrs 6
+A Collision works great now, I made effective use of my hitboxes as well
+C I wont finish in time because I still have much to do
+E Game over screen and high score registration
+
+Fri June 14th
+hrs 4
+A I change my view to fix hp and implement different difficulties 
+C I wont finish in time because I still have much to do
+E Game Over and highscores
+
+Sat June 15th
+hrs 7
+A I figured out my Game Over and Highscores stuff today after a long time of thinking
+C I wont finish in time because I still have much to do
+E Have game done tomorrow 
+
+Sun June 16th
+hrs 8
+A Added hearts to display hp, fixed custom input so you can pick between using the buttons w s and the arrow keys, comments all done.
+C I hope I do well
+E I do well
+
